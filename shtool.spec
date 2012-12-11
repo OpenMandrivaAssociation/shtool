@@ -39,3 +39,31 @@ make check
 %{_datadir}/%{name}/
 %{_datadir}/aclocal/%{name}.m4
 
+
+
+%changelog
+* Tue May 10 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.0.8-7
++ Revision: 673277
+- imported package shtool
+
+
+* Tue May 10 2011 Per Øyvind Karlsen <peroyvind@mandriva.org> 2.0.8-7
+- first mandriva release, imported and adapted from Fedora
+
+* Wed Feb 09 2011 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 2.0.8-6
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_15_Mass_Rebuild
+
+* Thu Jan 27 2011 Fabian Affolter <fabian@bernewireless.net> - 2.0.8-5
+- Rebuilt
+
+* Sat Feb 27 2010 Fabian Affolter <fabian@bernewireless.net> - 2.0.8-4
+- Rebuilt
+
+* Sun Jul 26 2009 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 2.0.8-3
+- Rebuilt for https://fedoraproject.org/wiki/Fedora_12_Mass_Rebuild
+
+* Sun Mar 08 2009 Fabian Affolter <fabian@bernewireless.net> - 2.0.8-2
+- Added test suite
+
+* Sat Dec 27 2008 Fabian Affolter <fabian@bernewireless.net> - 2.0.8-1
+- Initial spec for Fedora
