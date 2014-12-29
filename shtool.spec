@@ -1,6 +1,6 @@
 Name:		shtool
 Version:	2.0.8
-Release:	7
+Release:	8
 Summary:	Portable shell tool
 Group:		Shells
 License:	GPLv2+
