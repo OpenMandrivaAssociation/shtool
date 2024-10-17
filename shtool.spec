@@ -4,7 +4,7 @@ Release:	11
 Summary:	Portable shell tool
 Group:		Shells
 License:	GPLv2+
-URL:		http://www.gnu.org/software/shtool/
+URL:		https://www.gnu.org/software/shtool/
 Source0:	ftp://ftp.gnu.org/gnu/%{name}/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 
