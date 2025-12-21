@@ -8,6 +8,11 @@ URL:		https://www.gnu.org/software/shtool/
 Source0:	ftp://ftp.gnu.org/gnu/%{name}/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 GNU shtool is a compilation of small but very stable and portable
 shell scripts into a single shell tool. All ingredients were in
